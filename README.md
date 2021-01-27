@@ -1,23 +1,20 @@
 # ztg.plus
 ztg.plus is a hub for /ztg/-related web projects. It's run by Silverchase.
 
-## Directory
-* `www` (this site)
-* `silverchase` (party club)
-* future things
-
-## Replacement for intro pastebin
-* might as well also update and reformat it
-
-## Other important thead texts
-* Anon's honest reviews
-* Zoosona guide
-
-## Links
-* Imported from thread paste
-* TT blog
-* GTT archive
-* Party Club video archive
+* Replacement for intro paste
+* Archive of important thead texts
+  * Anon's honest reviews
+  * Zoosona guide
+* Links and directory
+  * Directory
+    * `www` (this site)
+    * `silverchase` (party club)
+    * future things
+  * Links
+    * Imported from thread paste
+    * TT blog
+    * GTT archive
+    * Party Club video archive
 
 ## Potential future subsites
 * Replacement booru (probably expensive)
@@ -29,3 +26,12 @@ ztg.plus is a hub for /ztg/-related web projects. It's run by Silverchase.
 
 ## Attribution
 Theme is based on "Friday Theme" by Simon Freytag. See `LICENSE.theme.md`.
+
+# Tech notes
+## TODO
+* rework posts.html to be archives.html
+
+## TOC sidebar
+Add sidebar to a page, with its headers as anchor links
+* In `side.html`, include `project-meta.html` for those pages. This adds the sidebar elements.
+* Copy the script from the bottom of `project.html` to the bottom of the relevant layout html file. This populates the sidebar with anchor links.

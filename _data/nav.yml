@@ -1,13 +1,11 @@
-- title: Home
+- title: ztg.plus
   href: index.html
 
-- title: About
-  href: about.html
+- title: Welcome
+  href: welcome.html
 
-- title: Posts
+- title: Archive
   href: list/posts.html
 
-- title: Documentation
-  href: list/projects.html
-
-
+- title: Directory
+  href: directory.html
