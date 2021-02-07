@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: directory.html
+permalink: directory
 narrow: true
 title: Directory
 ---

@@ -2,10 +2,10 @@
   href: index.html
 
 - title: Welcome
-  href: welcome.html
+  href: welcome
 
 - title: Archive
-  href: list/posts.html
+  href: list/posts
 
 - title: Directory
-  href: directory.html
+  href: directory

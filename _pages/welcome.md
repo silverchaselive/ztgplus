@@ -1,6 +1,6 @@
 ---
 layout: defaults/page
-permalink: welcome.html
+permalink: welcome
 narrow: true
 title: Welcome
 ---
