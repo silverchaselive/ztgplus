@@ -30,6 +30,8 @@ Theme is based on "Friday Theme" by Simon Freytag. See `LICENSE.theme.md`.
 # Tech notes
 ## TODO
 * rework posts.html to be archives.html
+* sidebar
+* css
 
 ## TOC sidebar
 Add sidebar to a page, with its headers as anchor links
