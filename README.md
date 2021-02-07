@@ -4,7 +4,7 @@ ztg.plus is a hub for /ztg/-related web projects. It's run by Silverchase.
 * Replacement for intro paste
 * Archive of important thead texts
   * Anon's honest reviews
-  * Zoosona guide
+  * Zoosona guide (should be in paste)
 * Links and directory
   * Directory
     * `www` (this site)
@@ -29,11 +29,7 @@ Theme is based on "Friday Theme" by Simon Freytag. See `LICENSE.theme.md`.
 
 # Tech notes
 ## TODO
-* rework posts.html to be archives.html
-* sidebar
+* add buttons that link to site sections, based on this line
+        class="bg-white border rounded p-1 mr-2 mb-2 d-inline-block"
+* fill pages with content
 * css
-
-## TOC sidebar
-Add sidebar to a page, with its headers as anchor links
-* In `side.html`, include `project-meta.html` for those pages. This adds the sidebar elements.
-* Copy the script from the bottom of `project.html` to the bottom of the relevant layout html file. This populates the sidebar with anchor links.
