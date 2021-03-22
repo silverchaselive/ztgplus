@@ -29,7 +29,8 @@ Theme is based on "Friday Theme" by Simon Freytag. See `LICENSE.theme.md`.
 
 # Tech notes
 ## TODO
-* add buttons that link to site sections, based on this line
-        class="bg-white border rounded p-1 mr-2 mb-2 d-inline-block"
+* front page logo
 * fill pages with content
 * css
+  * zoot-green palette?
+* favicon
